@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    border: 1px solid black;
+    height: 400px;
+    /* background-color: #fff; */
+}
+
+.fasilitasImg1, .fasilitasImg2, .fasilitasImg3  {
+    width: 33.3333333333%;
+    height: 90%;
+    border: 4px solid black;
+    /* padding: 50px; */
+    margin: 20px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}

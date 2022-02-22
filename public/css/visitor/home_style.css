@@ -1,0 +1,30 @@
+.bookingBtn {
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 200px;
+
+    padding: 10px;
+    /* border: 1px solid white; */
+    background-color: #036ffc;
+
+    border-radius: 10px;
+    transition: 1s;   
+
+}
+
+.bookingBtn a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: 1s;   
+}
+
+.bookingBtn:hover {
+    background-color: #fff;
+    transition: 1s;   
+}
+.bookingBtn a:hover {
+    color: #03a5fc;
+    transition: 1s;
+}

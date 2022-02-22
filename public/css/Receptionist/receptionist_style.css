@@ -1,0 +1,11 @@
+input[type="date"] {
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-bottom: 15px;
+}
+input[type="text"] {
+    margin-top: 50px;
+    margin-right: 5%;
+    float: right;
+    /* border-radius: 10px; */
+}
